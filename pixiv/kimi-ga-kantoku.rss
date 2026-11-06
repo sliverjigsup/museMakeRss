@@ -3,66 +3,76 @@
   <channel>
     <title>君が監督！33話～ — pixiv更新</title>
     <link>https://www.pixiv.net/user/38505842/series/350149</link>
-    <description>pixiv「君が監督！33話～」（あじな優）の話を載せるカスタムRSSです。マガジンポケットで連載していた「君が監督！」の続編を個人で制作したシリーズです。各項目はその話の作品ページへの直接リンクです。各話の投稿日はpixiv側のアクセス制限で確認できなかったため、項目にpubDateは入れていません。全10話（第33話〜第42話）を載せています。</description>
+    <description>pixiv「君が監督！33話～」（あじな優）の話を載せるカスタムRSSです。マガジンポケットで連載していた「君が監督！」の続編を個人で制作したシリーズです。各項目はその話の作品ページへの直接リンクです。各項目には各話の投稿日時をpubDateに入れています。全10話（第33話〜第42話）を載せています。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 10:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:40:00 +0900</lastBuildDate>
     <item>
       <title>君が監督！42話 『皮肉なもんよ』</title>
       <link>https://www.pixiv.net/artworks/151424016</link>
+      <pubDate>Thu, 29 Oct 2026 21:31:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-151424016</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第42話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！41話 『打席にいてもらいたい』</title>
       <link>https://www.pixiv.net/artworks/150889183</link>
+      <pubDate>Thu, 15 Oct 2026 22:02:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-150889183</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第41話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！40話『なんですか？その球種』</title>
       <link>https://www.pixiv.net/artworks/150391429</link>
+      <pubDate>Sat, 03 Oct 2026 10:21:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-150391429</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第40話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！39話 『お前の嗅覚もまだまだだ』</title>
       <link>https://www.pixiv.net/artworks/149750023</link>
+      <pubDate>Thu, 17 Sep 2026 00:07:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-149750023</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第39話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！38話 『教えてください』</title>
       <link>https://www.pixiv.net/artworks/149230642</link>
+      <pubDate>Thu, 03 Sep 2026 20:01:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-149230642</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第38話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！37話 『あ ヤバい人だ』</title>
       <link>https://www.pixiv.net/artworks/148942696</link>
+      <pubDate>Thu, 27 Aug 2026 17:44:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-148942696</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第37話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！36話 『お前がチームの要になれ』</title>
       <link>https://www.pixiv.net/artworks/148426167</link>
+      <pubDate>Fri, 14 Aug 2026 21:49:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-148426167</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第36話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！35話 『「解良縁」を作りたい』</title>
       <link>https://www.pixiv.net/artworks/147811714</link>
+      <pubDate>Thu, 30 Jul 2026 20:25:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-147811714</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第35話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！34話『ほーんと無愛想っすねぇ』</title>
       <link>https://www.pixiv.net/artworks/147811626</link>
+      <pubDate>Thu, 30 Jul 2026 20:23:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-147811626</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第34話です。作品ページへの直接リンクです。</description>
     </item>
     <item>
       <title>君が監督！33話『監督をやめさせてください』</title>
       <link>https://www.pixiv.net/artworks/147811531</link>
+      <pubDate>Thu, 30 Jul 2026 20:20:00 +0900</pubDate>
       <guid isPermaLink="false">pixiv-kimi-ga-kantoku-artwork-147811531</guid>
       <description>pixiv「君が監督！33話～」（あじな優）の第33話です。作品ページへの直接リンクです。</description>
     </item>
